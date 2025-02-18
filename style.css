@@ -1,0 +1,43 @@
+* {
+    line-height: 150%;
+    font-family: "Figtree";
+    color: #111111;
+    letter-spacing: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 200%;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 150%;
+    font-weight: 800;
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+time {
+    font-size: 87.5%;
+
+}
+
+p {
+    font-size: 1rem;
+}
+
+figcaption {
+    font-size: 87.5%;
+    font-weight: 800;
+}
+
+.learning {
+    font-size: 87.5%;
+    font-weight: 800;
+}
