@@ -3,6 +3,7 @@
     font-family: "Figtree";
     color: hsl(0, 0%, 7%);
     letter-spacing: 0;
+    font-style: normal;
 }
 
 a {
@@ -20,12 +21,11 @@ h2 {
 }
 
 h3 {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: 800;
 }
 time {
-    font-size: 87.5%;
-
+    font-size: 0.75rem;
 }
 
 p {
@@ -33,11 +33,11 @@ p {
 }
 
 figcaption {
-    font-size: 87.5%;
+    font-size: 0.75rem;
     font-weight: 800;
 }
 
 .learning {
-    font-size: 87.5%;
+    font-size: 0.75rem;
     font-weight: 800;
 }
